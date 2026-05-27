@@ -49,7 +49,7 @@ The main objective of this project is to help organizations monitor workforce tr
 
 ## 📷 Dashboard Preview
 
-(Add your dashboard screenshot here)
+![HR Dashboard](dashboard.png)
 
 ---
 
